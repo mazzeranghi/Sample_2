@@ -13,6 +13,8 @@ namespace ConsoleApplication2
       Console.WriteLine("Sample_2.7");
       Console.WriteLine("A");
       Console.WriteLine("B");
+      var p1 = new Person("Doe", "John");
+      Console.WriteLine(p1);
       Console.Read();
     }
   }
