@@ -11,6 +11,7 @@ namespace ConsoleApplication2
     static void Main(string[] args)
     {
       Console.WriteLine("Sample_2.5");
+      Console.WriteLine("A");
       Console.WriteLine("B");
       Console.Read();
     }
